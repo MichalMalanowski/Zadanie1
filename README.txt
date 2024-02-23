@@ -1,1 +1,2 @@
-README - wersja 1: Master
+README - wersja 2: Mastergit 
+Podstawy używania GIT – praca na plikachgit
